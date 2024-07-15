@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "random": "c",
+        "stdlib.h": "c",
+        "deque": "c",
+        "string": "c",
+        "vector": "c"
+    }
+}
